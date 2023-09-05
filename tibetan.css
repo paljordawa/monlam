@@ -1,0 +1,8 @@
+/* Monlam ouchan 3 -400-normal */
+@font-face {
+  font-family: 'Monlam OuChan 2';
+  font-style: normal;
+  font-display: swap;
+  font-weight: 400;
+  src: url(./files/MonlamUniOuChan2.ttf) format('ttf'), url(./files/MonlamUniOuChan2.ttf) format('ttf');
+}

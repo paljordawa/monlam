@@ -1,0 +1,19 @@
+{
+  "id": "monlambodyig",
+  "family": "monlambodyig",
+  "subsets": ["monlambodyig"],
+  "weights": [400],
+  "styles": ["normal"],
+  "defSubset": "latin",
+  "variable": false,
+  "lastModified": "2023-08-25",
+  "version": "v1",
+  "category": "serif",
+  "license": {
+    "type": "OFL-1.1",
+    "url": "http://scripts.sil.org/OFL",
+    "attribution": "Copyright (c) 2023 by Dawa Paljor. All rights reserved."
+  },
+  "source": "https://github.com/paljordawa/monlambodyig.git",
+  "type": ""
+}

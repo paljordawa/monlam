@@ -1,0 +1,34 @@
+{
+  "name": "@monlambodyig",
+  "version": "1.0.0",
+  "description": "Self-host the Monlam Bodyig Tibetan fonts in a neatly bundled NPM package.",
+  "main": "index.css",
+  "publishConfig": {"access": "public"},
+  "keywords": [
+    "monlambodyig",
+    "font",
+    "font family",
+    "Tibetan fonts",
+    "Monlam"
+  ],
+  "scripts": {
+    "test": "npm run monlambodyig"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paljordawa/monlambodyig.git"
+  },
+  "author": "Dawa Paljor",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paljordawa/monlambodyig/issues"
+  },
+  "homepage": "",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "monlambodyig": "^1.0.0"
+  },
+  "devDependencies": {}
+}
